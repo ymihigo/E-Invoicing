@@ -1,0 +1,16 @@
+rw/invoicing/main/invoice/InvoiceServiceImplemantation.class
+rw/invoicing/main/invoice/Invoice.class
+rw/invoicing/main/EInvoicingApplication.class
+rw/invoicing/main/exceptionHandler/GlobalException.class
+rw/invoicing/main/exceptionHandler/InvalidParameters.class
+rw/invoicing/main/exceptionHandler/ErrorDetail.class
+rw/invoicing/main/customer/CustomerService.class
+rw/invoicing/main/customer/CustomerRepository.class
+rw/invoicing/main/customer/CustomerServiceInterface.class
+rw/invoicing/main/customer/CustomerController.class
+rw/invoicing/main/invoice/InvoiceController.class
+rw/invoicing/main/invoice/InvoiceRepository.class
+rw/invoicing/main/invoice/InvoiceStatus.class
+rw/invoicing/main/invoice/InvoiceServiceInterface.class
+rw/invoicing/main/customer/Customer.class
+rw/invoicing/main/invoice/InvoicePayload.class
